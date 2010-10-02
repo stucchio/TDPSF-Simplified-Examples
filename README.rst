@@ -35,8 +35,23 @@ Additionally, the running time of the program is *vastly* superior, by a factor 
 I *strongly* recommend that anyone who wishes to use phase space filters
 should use the simplified version.
 
+
 Guide
 =====
+
+Dependencies
+------------
+
+You need python (probably 2.6 or later, but NOT 3.0), numpy, matplotlib and scipy.
+
+http://python.org/
+
+http://numpy.scipy.org/
+
+http://www.scipy.org/
+
+http://matplotlib.sourceforge.net/
+
 
 schrodinger_test.py
 -------------------
